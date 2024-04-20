@@ -1,6 +1,6 @@
 ### Olá, eu sou Anny Karolliny! 👋
 
-Atualmente, estudo JavaScript e as suas tecnologias.
+Atualmente estudo JavaScript e as suas tecnologias.
 
 **Sobre mim:**
 
