@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá, eu sou Anny Karolliny! 👋
 
-<!--
-**annykarolliny/annykarolliny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou estudando JavaScript e as suas tecnologias.
 
-Here are some ideas to get you started:
+**Sobre mim:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 No momento estou cursando o último ano do técnico em Informática, no IFRN
+
+- ❤️ Sou apaixonada por tecnologia
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+
+<div align="center">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annykarolliny&layout=compact&theme=buefy&hide_border=true" />
+</div>
+
+##
+
+<div> 
+  <a href="www.linkedin.com/in/anny-karolliny-de-oliveira-silva-4334062ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
